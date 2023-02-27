@@ -24,3 +24,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Pokedex utilizando a api pokemon para realizar buscas dos pokemons.
+link para visualização do projeto: https://jcesar03.github.io/Pokedex/
